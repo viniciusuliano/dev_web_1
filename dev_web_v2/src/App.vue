@@ -4,10 +4,10 @@
     <div class="features">
       <div class="row">
         <div class="text-col">
-          <h2>Enjoy on your TV.</h2>
+          <h2>Desfrute na sua TV.</h2>
           <p>
-            Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV,
-            Blu-ray players and more.
+            Assista em smart TVs, PlayStation, Xbox, Chromecast, Apple TV,
+            players de Blu-ray e muito mais.
           </p>
         </div>
         <div class="img-col">
@@ -19,16 +19,16 @@
           <img src="./assets/feature-2.png" alt="feature-2" />
         </div>
         <div class="text-col">
-          <h2>Download your shows to watch offline.</h2>
-          <p>Save your favourites easily and always have something to watch.</p>
+          <h2>Baixe suas séries para assistir offline.</h2>
+          <p>Salve seus favoritos facilmente e sempre tenha algo para assistir.</p>
         </div>
       </div>
       <div class="row">
         <div class="text-col">
-          <h2>Watch everywhere.</h2>
+          <h2>Assista em qualquer lugar.</h2>
           <p>
-            Stream unlimited movies and TV shows on your phone, tablet, laptop,
-            and TV.
+            Transmita filmes e séries ilimitados no seu celular, tablet, laptop
+            e TV.
           </p>
         </div>
         <div class="img-col">
@@ -40,113 +40,113 @@
           <img src="./assets/feature-4.png" alt="feature-4" />
         </div>
         <div class="text-col">
-          <h2>Create profiles for children.</h2>
+          <h2>Crie perfis para crianças.</h2>
           <p>
-            Send children on adventures with their favourite characters in a
-            space made just for them—free with your membership.
+            Envie as crianças em aventuras com seus personagens favoritos em um
+            espaço feito só para elas — grátis com sua assinatura.
           </p>
         </div>
       </div>
     </div>
 
     <div class="faq">
-      <h2>Frequently Asked Questions</h2>
+      <h2>Perguntas Frequentes</h2>
 
       <ul class="accordion">
         <li>
           <input type="radio" name="accordion" id="first" />
-          <label for="first">What is Netflix?</label>
+          <label for="first">O que é a Netflix?</label>
           <div class="content">
             <p>
-              Netflix is a streaming service that offers a wide variety of
-              award-winning TV shows, movies, anime, documentaries and more – on
-              thousands of internet-connected devices.<br /><br />
-              You can watch as much as you want, whenever you want, without a
-              single ad – all for one low monthly price. There's always
-              something new to discover, and new TV shows and movies are added
-              every week!
+              A Netflix é um serviço de streaming que oferece uma ampla variedade de
+              séries premiadas, filmes, animes, documentários e muito mais – em
+              milhares de dispositivos conectados à internet.<br /><br />
+              Você pode assistir o quanto quiser, quando quiser, sem uma
+              única propaganda – tudo por um preço mensal acessível. Sempre há
+              algo novo para descobrir, e novos filmes e séries são adicionados
+              toda semana!
             </p>
           </div>
         </li>
         <li>
           <input type="radio" name="accordion" id="second" />
-          <label for="second">How much does Netflix cost?</label>
+          <label for="second">Quanto custa a Netflix?</label>
           <div class="content">
             <p>
-              Watch Netflix on your smartphone, tablet, Smart TV, laptop, or
-              streaming device, all for one fixed monthly fee. Plans range from
-              ₹ 149 to ₹ 649 a month. No extra costs, no contracts.
+              Assista à Netflix no seu smartphone, tablet, Smart TV, laptop ou
+              dispositivo de streaming, tudo por uma taxa mensal fixa. Os planos variam de
+              R$ 19,90 a R$ 55,90 por mês. Sem custos extras, sem contratos.
             </p>
           </div>
         </li>
         <li>
           <input type="radio" name="accordion" id="third" />
-          <label for="third">Where can I watch?</label>
+          <label for="third">Onde posso assistir?</label>
           <div class="content">
             <p>
-              Watch anywhere, anytime. Sign in with your Netflix account to
-              watch instantly on the web at netflix.com from your personal
-              computer or on any internet-connected device that offers the
-              Netflix app, including smart TVs, smartphones, tablets, streaming
-              media players and game consoles.<br /><br />
-              You can also download your favourite shows with the iOS, Android,
-              or Windows 10 app. Use downloads to watch while you're on the go
-              and without an internet connection. Take Netflix with you
-              anywhere.
+              Assista em qualquer lugar, a qualquer hora. Faça login com sua conta Netflix para
+              assistir instantaneamente na web em netflix.com no seu computador pessoal ou em qualquer
+              dispositivo conectado à internet que ofereça o aplicativo Netflix, incluindo smart TVs, smartphones, tablets,
+              players de mídia de streaming e consoles de jogos.<br /><br />
+              Você também pode baixar suas séries favoritas com o aplicativo iOS, Android ou
+              Windows 10. Use downloads para assistir enquanto estiver em movimento
+              e sem uma conexão com a internet. Leve a Netflix com você
+              para qualquer lugar.
             </p>
           </div>
         </li>
         <li>
           <input type="radio" name="accordion" id="fourth" />
-          <label for="fourth">How do I cancel?</label>
+          <label for="fourth">Como faço para cancelar?</label>
           <div class="content">
             <p>
-              Netflix is flexible. There are no annoying contracts and no
-              commitments. You can easily cancel your account online in two
-              clicks. There are no cancellation fees – start or stop your
-              account anytime.
+              A Netflix é flexível. Não há contratos complicados e nem
+              compromissos. Você pode cancelar sua conta online facilmente em dois
+              cliques. Não há taxas de cancelamento – inicie ou interrompa sua
+              conta a qualquer momento.
             </p>
           </div>
         </li>
         <li>
           <input type="radio" name="accordion" id="fifth" />
-          <label for="fifth">What can I watch on Netflix?</label>
+          <label for="fifth">O que posso assistir na Netflix?</label>
           <div class="content">
             <p>
-              Netflix has an extensive library of feature films, documentaries,
-              TV shows, anime, award-winning Netflix originals, and more. Watch
-              as much as you want, anytime you want.
+              A Netflix tem uma vasta biblioteca de longas-metragens, documentários,
+              séries, animes, originais premiados da Netflix e muito mais. Assista
+              o quanto quiser, quando quiser.
             </p>
           </div>
         </li>
         <li>
           <input type="radio" name="accordion" id="sixth" />
-          <label for="sixth">Is Netflix good for Kids?</label>
+          <label for="sixth">A Netflix é boa para crianças?</label>
           <div class="content">
             <p>
-              The Netflix Kids experience is included in your membership to give
-              parents control while kids enjoy family-friendly TV shows and
-              films in their own space.<br /><br />
-              Kids profiles come with PIN-protected parental controls that let
-              you restrict the maturity rating of content kids can watch and
-              block specific titles you don’t want kids to see.
+              A experiência Netflix Kids está incluída na sua assinatura para dar
+              aos pais controle enquanto as crianças desfrutam de séries e filmes
+              voltados para a família em seu próprio espaço.<br /><br />
+              Os perfis infantis vêm com controles parentais protegidos por PIN que permitem
+              restringir a classificação etária do conteúdo que as crianças podem assistir e
+              bloquear títulos específicos que você não quer que as crianças vejam.
             </p>
           </div>
         </li>
       </ul>
 
       <small>
-        Ready to watch? Enter your email to create or restart your membership.
+        Pronto para assistir? Insira seu e-mail para criar ou reiniciar sua assinatura.
       </small>
 
       <form action="#" class="email-signup">
-        <input type="email" placeholder="Email address" required />
-        <button type="submit">Get Started</button>
+        <input type="email" placeholder="Endereço de e-mail" required />
+        <button type="submit">Vamos lá</button>
       </form>
     </div>
     <FooterComponent />
   </div>
 </template>
+
 
 <script>
 import HeaderComponent from './components/HeaderComponent.vue';

@@ -1,41 +1,42 @@
 <template>
   <div class="footer">
-    <h2>Questions? Call 000-000-000-0000</h2>
+    <h2>Dúvidas? Ligue para 000-000-000-0000</h2>
 
     <div class="row">
       <div class="col">
-        <a href="#">FAQ</a>
-        <a href="#">Investor Relations</a>
-        <a href="#">Privacy</a>
-        <a href="#">Speed Test</a>
+        <a href="#">Perguntas Frequentes</a>
+        <a href="#">Relações com Investidores</a>
+        <a href="#">Privacidade</a>
+        <a href="#">Teste de Velocidade</a>
       </div>
       <div class="col">
-        <a href="#">Help Centre</a>
-        <a href="#">Jobs</a>
-        <a href="#">Cookie Preferences</a>
-        <a href="#">Legal Notices</a>
+        <a href="#">Central de Ajuda</a>
+        <a href="#">Carreiras</a>
+        <a href="#">Preferências de Cookies</a>
+        <a href="#">Avisos Legais</a>
       </div>
       <div class="col">
-        <a href="#">Account</a>
-        <a href="#">Ways to Watch</a>
-        <a href="#">Corporate Information</a>
-        <a href="#">Only on Netflix</a>
+        <a href="#">Conta</a>
+        <a href="#">Formas de Assistir</a>
+        <a href="#">Informações Corporativas</a>
+        <a href="#">Só na Netflix</a>
       </div>
       <div class="col">
-        <a href="#">Media Centre</a>
-        <a href="#">Terms of Use</a>
-        <a href="#">Contact Us</a>
+        <a href="#">Central de Mídia</a>
+        <a href="#">Termos de Uso</a>
+        <a href="#">Entre em Contato</a>
       </div>
     </div>
 
     <button class="lang-btn">
-      <i class="fa-solid fa-globe"></i> English
+      <i class="fa-solid fa-globe"></i> Português
       <img src="/src/assets/down-icon.png" />
     </button>
 
-    <p class="copyright-text">Netflix United States</p>
+    <p class="copyright-text">Netflix Brasil</p>
   </div>
 </template>
+
 
 <script>
 export default {

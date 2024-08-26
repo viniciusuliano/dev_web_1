@@ -4,26 +4,27 @@
       <img class="logo" src="/src/assets/logo.png" alt="logo" />
       <div>
         <button class="lang-btn">
-          <i class="fa-solid fa-globe"></i> English
+          <i class="fa-solid fa-globe"></i> Português
           <img src="/src/assets/down-icon.png" />
         </button>
-        <button>Sign In</button>
+        <button>Entrar</button>
       </div>
     </nav>
 
     <div class="header-content">
-      <h1>Unlimited movies, TV shows and more.</h1>
-      <h3>Watch anywhere. Cancel anytime.</h3>
+      <h1>Filmes, séries e muito mais, sem limites.</h1>
+      <h3>Assista onde quiser. Cancele quando quiser.</h3>
       <p>
-        Ready to watch? Enter your email to create or restart your membership.
+        Pronto para assistir? Insira seu e-mail para criar ou reiniciar sua assinatura.
       </p>
       <form action="#" class="email-signup">
-        <input type="email" placeholder="Email address" required />
-        <button type="submit">Get Started</button>
+        <input type="email" placeholder="Endereço de e-mail" required />
+        <button type="submit">Vamos lá</button>
       </form>
     </div>
   </div>
 </template>
+
 
 <script>
 export default {
